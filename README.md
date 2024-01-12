@@ -11,3 +11,4 @@ This game was developed using Java and with ana engine that was provided by the 
 6- Singleton
 
 A report containing screenshots of gameplay and details of usage of design patterns can be found in the repository
+Created by @aelsalmy @bigoofus @
